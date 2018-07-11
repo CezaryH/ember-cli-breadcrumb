@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-breadcrumbs/components/bread-crumbs/component';
